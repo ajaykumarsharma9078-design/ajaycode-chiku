@@ -1,0 +1,2 @@
+# ajaycode-chiku
+THIS IS MY FIRST REPOSITORY
